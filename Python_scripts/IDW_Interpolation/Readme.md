@@ -4,6 +4,7 @@ This Code generates a 9*9 matrix from 3*3 matrix Using IDW INterpolation Techniq
 
 1. Initial 3x3 Grid
    data_3x3 = np.array([
+   
     [10, 20, 15],
    
     [25, 30, 20],

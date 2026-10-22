@@ -4,6 +4,8 @@ Principle: the value of an unsampled point is a distance-weighted average of the
 Tobler’s First Law of Geography, which states: "Everything is related to everything else, but near things are more related than distant things."
 Points that are geographically closer to the target point carry a higher weight (influence) in determining the estimated value than points further away.
 <img width="867" height="395" alt="image" src="https://github.com/user-attachments/assets/019d83fe-93b8-4d23-a11d-b74b26dc83ae" />
+
+
 Used for: Dense Data Points, Continuous Phenomenon,Local Influence Dominates
 Limitation: Sparse or Clustered Data, Topographical Barrriers, Extreme Outliers 
 # Power ($p$): Controls the significance of surrounding points

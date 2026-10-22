@@ -14,6 +14,7 @@ Limitation: Sparse or Clustered Data, Topographical Barrriers, Extreme Outliers
 
 Key Parameters:
 Power ($p$): Controls the significance of surrounding points
+
 Search Radius/Point Count ($n$): Determines how many known points are factored into a single calculation. 
 
 # Python Libraries:
